@@ -149,6 +149,16 @@ An **LLM-powered assistant** enabling Indian traders to query business data usin
 
 ---
 
+## 📈 Growth Strategy: Path to a Top-Tier Architect Profile
+
+### 1. 🏗️ High-Impact Projects (Proposed Roadmap)
+To strengthen your profile's niche in AI Safety and Bharat-tech:
+- **Bhasha-Shield:** A high-speed safety filter for Indian languages (Indic-NLP) to detect prompt injection in local dialects.
+- **Privacy-Connect:** A lightweight SDK to bridge LLM agents with India Stack (Account Aggregator / ONDC) in a privacy-preserving way.
+- **Governance-as-Code:** Building a Terraform provider for AI safety policies to automate compliance across varied cloud environments.
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -188,14 +198,15 @@ An **LLM-powered assistant** enabling Indian traders to query business data usin
 ## 📊 GitHub Stats
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=nerd1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=contribs" /></td>
-    <td align="center"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerd1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" /></td>
-  </tr>
-</table>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nerd1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=contribs" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerd1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" />
+</div>
+
 <br/>
-<img width="720" src="https://streak-stats.demolab.com?user=nerd1412&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720" />
+
+<div align="center">
+  <img width="720" src="https://streak-stats.demolab.com?user=nerd1412&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720" />
 </div>
 
 ---
@@ -208,7 +219,7 @@ An **LLM-powered assistant** enabling Indian traders to query business data usin
 
 ---
 
-## 💬 Current Sprint
+## 💬 What I'm Working On
 
 ```python
 class TheIndicSentinel:
@@ -219,12 +230,12 @@ class TheIndicSentinel:
         self.stack       = ["Python", "FastAPI", "React", "PyTorch", "Docker"]
         self.status      = "Architecting the Enforcement Layer"
 
-    def current_tasks(self):
+    def current_sprint(self):
         return [
             "🧬 Fine-tuning domain-specific safety classifiers",
-            "🛡️ Hardening real-time enforcement middleware",
-            "📊 Designing executive compliance observability",
-            "🕵️ Expanding synthetic media forensics engine",
+            "🔒 Hardening DPDP policy enforcement engine",
+            "📡 Real-time governance dashboard via WebSockets",
+            "🧠 Expanding synthetic media forensics module",
         ]
 ```
 
