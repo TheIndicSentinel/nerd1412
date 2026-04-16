@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile_banner.png" width="100%" alt="The Indic Sentinel Banner">
+  <img src="https://raw.githubusercontent.com/TheIndicSentinel/nerd1412/main/assets/profile_banner.png" width="100%" alt="The Indic Sentinel Banner">
 </p>
 
 <br/>
@@ -7,14 +7,14 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&lines=The+Indic+Sentinel+%F0%9F%91%8B;Building+Responsible+AI+for+Bharat+%F0%9F%87%AE%F0%9F%87%B3;AI+Governance+%7C+Full-Stack+%7C+ML+Engineer;Architecting+Digital+Armor+for+the+AI+First+Economy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=800&lines=The+Indic+Sentinel+%F0%9F%91%8B;Building+Responsible+AI+for+Bharat+%F0%9F%87%AE%F0%9F%87%B3;AI+Governance+%7C+Full+Stack+%7C+ML+Engineer;Architecting+Digital+Armor+for+the+AI+First+Economy)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=nerd1412&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=TheIndicSentinel&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/nerd1412?style=for-the-badge&color=6E40C9&label=FOLLOWERS)](https://github.com/TheIndicSentinel?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/TheIndicSentinel?style=for-the-badge&color=6E40C9&label=FOLLOWERS)](https://github.com/TheIndicSentinel?tab=followers)
 
 </div>
 
@@ -63,7 +63,7 @@ My flagship project — **KavachX** — is a production-ready AI governance engi
 > *The enforcement layer for production AI*
 
 <p align="center">
-  <img src="assets/kavachx_logo.png" width="400" alt="KavachX Logo">
+  <img src="https://raw.githubusercontent.com/TheIndicSentinel/nerd1412/main/assets/kavachx_logo.png" width="400" alt="KavachX Logo">
 </p>
 
 A **real-time governance platform** acting as the middle-layer for AI interactions. Implements composite risk scoring and immutable audit logging.
@@ -94,7 +94,7 @@ A **real-time governance platform** acting as the middle-layer for AI interactio
 A **multi-role fitness SaaS** with real-time trainer-client management, analytics, and indigenous payment integrations.
 
 **Highlights:**
-- 💬 Real-time chat via Socket.IO
+- 💬 Real-time trainer↔client chat via Socket.IO
 - 📊 Complex analytics & streak tracking
 - 💳 UPI deep-link payment ecosystem
 - 🏋️ Full workout library with timer
@@ -111,14 +111,14 @@ A **multi-role fitness SaaS** with real-time trainer-client management, analytic
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [PO CoPilot — AI Procurement](https://github.com/TheIndicSentinel/PO-Copilot)
-> *AI Assistant for enterprise flows*
+### 🤖 [PO CoPilot — AI Procurement Assistant](https://github.com/TheIndicSentinel/PO-Copilot)
+> *AI-powered Purchase Order validation & change impact analysis*
 
-A **Streamlit-based assistant** for procurement validation and change impact analysis, aligned with SAP BTP patterns.
+A **Streamlit-based AI assistant** for procurement teams to validate POs, analyze change impacts, and generate approval summaries — aligned to SAP BTP architecture.
 
 **Highlights:**
-- 🔍 Multi-field PO validation logic
-- 📋 Approval summary automation
+- 🔍 AI-powered PO validation with change impact analysis
+- 📋 Automated approval summary generation
 - ☁️ SAP BTP-aligned architecture
 - 🚀 [Live Demo](https://po-copilot-qg9nqjqmaj8kwcd7xptahd.streamlit.app/)
 
@@ -129,7 +129,7 @@ A **Streamlit-based assistant** for procurement validation and change impact ana
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [VyaparGPT — SME Intelligence](https://github.com/TheIndicSentinel/vyapar_gpt)
+### 🛒 [VyaparGPT — Business Intelligence Assistant](https://github.com/TheIndicSentinel/vyapar_gpt)
 > *BI for the Bharat SME market*
 
 An **LLM-powered assistant** enabling Indian traders to query business data using natural language in Hindi and English.
@@ -149,16 +149,6 @@ An **LLM-powered assistant** enabling Indian traders to query business data usin
 
 ---
 
-## 📈 Growth Strategy: Path to a Top-Tier Architect Profile
-
-### 1. 🏗️ High-Impact Projects (Proposed Roadmap)
-To strengthen your profile's niche in AI Safety and Bharat-tech:
-- **Bhasha-Shield:** A high-speed safety filter for Indian languages (Indic-NLP) to detect prompt injection in local dialects.
-- **Privacy-Connect:** A lightweight SDK to bridge LLM agents with India Stack (Account Aggregator / ONDC) in a privacy-preserving way.
-- **Governance-as-Code:** Building a Terraform provider for AI safety policies to automate compliance across varied cloud environments.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -172,7 +162,7 @@ To strengthen your profile's niche in AI Safety and Bharat-tech:
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&include_all_commits=false&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Backend**
@@ -198,15 +188,15 @@ To strengthen your profile's niche in AI Safety and Bharat-tech:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nerd1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=contribs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheIndicSentinel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=contribs" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerd1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIndicSentinel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="720" src="https://streak-stats.demolab.com?user=nerd1412&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720" />
+  <img width="720" src="https://streak-stats.demolab.com?user=TheIndicSentinel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720" />
 </div>
 
 ---
@@ -214,7 +204,7 @@ To strengthen your profile's niche in AI Safety and Bharat-tech:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nerd1412&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheIndicSentinel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -224,15 +214,17 @@ To strengthen your profile's niche in AI Safety and Bharat-tech:
 ```python
 class TheIndicSentinel:
     def __init__(self):
+        self.name        = "The Indic Sentinel"
         self.focus       = "AI Governance & Responsible ML"
-        self.mission     = "Building Bharat's Digital Armor for AI"
-        self.baseline    = "Applicable AI and Digital Laws in Bharat"
+        self.location    = "India 🇮🇳"
+        self.flagship    = "KavachX — Production AI Compliance Engine"
         self.stack       = ["Python", "FastAPI", "React", "PyTorch", "Docker"]
-        self.status      = "Architecting the Enforcement Layer"
+        self.compliance  = ["DPDP Act 2023", "All applicable AI & digital laws in Bharat"]
+        self.open_to     = ["Collaborations", "AI Safety Research", "Enterprise SaaS"]
 
     def current_sprint(self):
         return [
-            "🧬 Fine-tuning domain-specific safety classifiers",
+            "🧬 Fine-tuning BERT-based safety classifiers",
             "🔒 Hardening DPDP policy enforcement engine",
             "📡 Real-time governance dashboard via WebSockets",
             "🧠 Expanding synthetic media forensics module",
