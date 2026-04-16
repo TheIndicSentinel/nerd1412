@@ -16,14 +16,39 @@
 
 ## 🧠 About Me
 
-> *Shipping production-grade AI systems that are not just powerful — but **safe, fair, and compliant.***
+> *Building the trust layer that AI in Bharat deserves — production-grade, policy-aligned, and ready for the real world.*
 
-I'm an **AI/ML Engineer & Full-Stack Developer** based in **India 🇮🇳**, focused on building systems at the intersection of **AI governance**, **responsible ML**, and **enterprise software**. My flagship project, **KavachX**, is a production-ready AI governance engine enforcing DPDPA, EU AI Act, and RBI Fairness guidelines in real time.
+I'm an **AI/ML Engineer & Full-Stack Developer** based in **India 🇮🇳**, building at the intersection of **AI governance**, **responsible machine learning**, and **enterprise compliance infrastructure**.
 
-- 🔭 Currently building **KavachX v2** — an enterprise AI governance & compliance platform with live ML fine-tuning
-- 🧪 Exploring **DPDP Act (2023)** compliance automation & synthetic media forensics
-- 💡 Passionate about making AI governance accessible for Indian SMEs
-- 🤝 Open to collaborations on **AI safety**, **ML fairness**, and **enterprise SaaS**
+My flagship project — **KavachX** — is a production-ready AI governance engine designed to serve as the **trust and enforcement layer** between AI models and the end users they serve. Think of it as a *compliance firewall for AI* — every inference is scored, audited, and enforced against a live policy context before it ever reaches a user.
+
+### 🛡️ The KavachX Vision
+
+As AI systems proliferate across **finance, healthcare, HR, education, e-commerce, and public services**, the risks grow exponentially — biased decisions, privacy violations, synthetic media abuse, prompt-injected exploits. KavachX is built to address this at scale.
+
+**What KavachX does:**
+- 🔍 **Real-time risk scoring** — every AI inference passes through a composite risk engine that evaluates content safety, demographic fairness, data privacy, and adversarial intent simultaneously
+- 🧬 **Fine-tuned ML safety classifiers** — custom-trained BERT-based models (not just rule-based filters) that learn from domain-specific data and improve over time
+- 🔒 **Tiered enforcement gates** — soft reviews, hard blocks, and escalation paths based on risk thresholds; no binary on/off switch
+- 📡 **Immutable audit trail** — every enforcement decision — including blocks — is logged, timestamped, and surfaced via an executive compliance dashboard in real time
+- 🧩 **Plug-and-play middleware** — wrap any LLM or ML API behind a single KavachX key; no model retraining required
+- 🕵️ **Synthetic media forensics** — early-stage detection of AI-generated media abuse through the integrated media shield module
+- 🌐 **Browser-layer governance** — a Chrome extension intercepts AI interactions in the browser itself, extending enforcement beyond the server
+
+**Industries KavachX is designed for:**
+`Fintech` · `HealthTech` · `EdTech` · `HRTech` · `LegalTech` · `E-commerce` · `Government & Public Sector`
+
+KavachX follows **all applicable AI-related and digital governance laws operative in Bharat** as its compliance baseline — currently with deep focus on the **Digital Personal Data Protection Act** and **general AI safety standards**, with more vertical-specific modules in active development.
+
+> *Several differentiated capabilities are in stealth — including features that no existing Indian AI governance platform currently offers.*
+
+---
+
+**Beyond KavachX:**
+- 💪 Built **Mpower Fitness** — a full-stack multi-role SaaS with real-time Socket.IO chat, UPI payments, and trainer analytics
+- 🤖 Built **PO CoPilot** — a live Streamlit AI assistant for SAP-aligned procurement workflows
+- 🛒 Building **VyaparGPT** — an LLM-powered business intelligence assistant for Indian SME traders
+- 🤝 Open to collaborations on **AI safety**, **responsible ML**, and **enterprise B2B SaaS**
 
 ---
 
@@ -160,12 +185,15 @@ An **LLM-powered business assistant** built for Indian traders and SMEs, enablin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nerd1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerd1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nerd1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=contribs" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerd1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerd1412&theme=tokyonight&hide_border=true" />
+  <img width="720" src="https://streak-stats.demolab.com?user=nerd1412&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720" />
 </div>
 
 ---
@@ -188,7 +216,7 @@ class nerd1412:
         self.location    = "India 🇮🇳"
         self.flagship    = "KavachX — Production AI Compliance Engine"
         self.stack       = ["Python", "FastAPI", "React", "PyTorch", "Docker"]
-        self.compliance  = ["DPDPA 2023", "EU AI Act", "RBI Fairness Guidelines"]
+        self.compliance  = ["DPDP Act", "All applicable AI & digital laws in Bharat"]
         self.open_to     = ["Collaborations", "AI Safety Research", "Enterprise SaaS"]
 
     def current_sprint(self):
