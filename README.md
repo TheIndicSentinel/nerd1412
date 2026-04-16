@@ -41,12 +41,16 @@ My flagship project, **KavachX**, is a production-grade AI governance engine. It
 ### 🛡️ [KavachX — AI Governance Engine](https://github.com/nerd1412/kavachxv2)
 > *The enforcement layer for production AI*
 
+<p align="center">
+  <img src="assets/kavachx_logo.png" width="400" alt="KavachX Indian Shield Logo">
+</p>
+
 A **real-time governance platform** acting as the middle-layer for AI interactions. Implements composite risk scoring and immutable audit logging.
 
 **Highlights:**
 - ⚡ Real-time inference risk scoring
 - 🔒 Bharat-native compliance engine
-- 🧬 Custom-trained ML safety classifiers
+- 🧬 Custom-trained ML classifiers
 - 🧩 Browser-layer AI interception
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,6 +62,10 @@ A **real-time governance platform** acting as the middle-layer for AI interactio
 
 ### 💪 [Mpower Fitness Platform](https://github.com/nerd1412/mpowerfitness)
 > *SaaS for the fitness economy*
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=400" width="400" alt="Mpower Fitness">
+</p>
 
 A **multi-role fitness SaaS** with real-time trainer-client management, analytics, and indigenous payment integrations.
 
@@ -111,6 +119,21 @@ An **LLM-powered assistant** enabling Indian traders to query business data usin
 
 ---
 
+## 📈 Growth Strategy: Path to a Top-Tier Architect Profile
+
+### 1. 🏗️ High-Impact Projects (Proposed Roadmap)
+To strengthen your profile's niche in AI Safety and Bharat-tech:
+- **Bhasha-Shield:** A high-speed safety filter for Indian languages (Indic-NLP) to detect prompt injection in local dialects.
+- **Privacy-Connect:** A lightweight SDK to bridge LLM agents with India Stack (Account Aggregator / ONDC) in a privacy-preserving way.
+- **Governance-as-Code:** Building a Terraform provider for AI safety policies to automate compliance across varied cloud environments.
+
+### 2. 📊 Improving Stats & Authority
+- **Micro-Utility Focus:** Publish 3-5 small but sharp Python/NPM packages (e.g., a simple DPDPA data-masking tool). These attract stars and "Used By" tags faster than large monorepos.
+- **Open Source Contributions:** Aim for 2-3 meaningful PRs to major safety frameworks like LangChain, LlamaIndex, or Microsoft’s Presidio.
+- **Technical Storytelling:** Link your GitHub to a technical blog (Hashnode/Medium) where you explain the *engineering logic* behind KavachX.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -159,14 +182,14 @@ class nerd1412:
         self.mission     = "Building Bharat's Digital Armor for AI"
         self.baseline    = "Applicable AI and Digital Laws in Bharat"
         self.stack       = ["Python", "FastAPI", "React", "PyTorch", "Docker"]
-        self.status      = "Operationalizing stealth security modules"
+        self.status      = "Overhauling KavachX branding with Indian aesthetics"
 
     def current_tasks(self):
         return [
+            "🛡️ Finalizing 'Cyber-Vedic' Kavach Branding",
             "🧬 Training domain-specific safety classifiers",
             "🛡️ Hardening real-time enforcement middleware",
             "📊 Designing executive compliance observability",
-            "🕵️ Expanding synthetic media forensics engine",
         ]
 ```
 
