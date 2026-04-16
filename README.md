@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/profile_banner.png" width="100%" alt="The Indic Sentinel Banner">
+</p>
+
+<br/>
+
 <div align="center">
 
 # 🛡️ Architecting the Future of Responsible AI in Bharat
@@ -38,7 +44,7 @@ My flagship project, **KavachX**, is a production-grade AI governance engine. It
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [KavachX — AI Governance Engine](https://github.com/nerd1412/kavachxv2)
+### 🛡️ [KavachX — AI Governance Engine](https://github.com/TheIndicSentinel/kavachxv2)
 > *The enforcement layer for production AI*
 
 <p align="center">
@@ -60,7 +66,7 @@ A **real-time governance platform** acting as the middle-layer for AI interactio
 </td>
 <td width="50%" valign="top">
 
-### 💪 [Mpower Fitness Platform](https://github.com/nerd1412/mpowerfitness)
+### 💪 [Mpower Fitness Platform](https://github.com/TheIndicSentinel/mpowerfitness)
 > *SaaS for the fitness economy*
 
 <p align="center">
@@ -84,7 +90,7 @@ A **multi-role fitness SaaS** with real-time trainer-client management, analytic
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [PO CoPilot — AI Procurement](https://github.com/nerd1412/PO-Copilot)
+### 🤖 [PO CoPilot — AI Procurement](https://github.com/TheIndicSentinel/PO-Copilot)
 > *AI Assistant for enterprise flows*
 
 A **Streamlit-based assistant** for procurement validation and change impact analysis, aligned with SAP BTP patterns.
@@ -100,7 +106,7 @@ A **Streamlit-based assistant** for procurement validation and change impact ana
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [VyaparGPT — SME Intelligence](https://github.com/nerd1412/vyapar_gpt)
+### 🛒 [VyaparGPT — SME Intelligence](https://github.com/TheIndicSentinel/vyapar_gpt)
 > *BI for the Bharat SME market*
 
 An **LLM-powered assistant** enabling Indian traders to query business data using natural language in Hindi and English.
@@ -176,17 +182,17 @@ To strengthen your profile's niche in AI Safety and Bharat-tech:
 ## 💬 Current Sprint
 
 ```python
-class nerd1412:
+class TheIndicSentinel:
     def __init__(self):
         self.focus       = "AI Governance & Responsible ML"
         self.mission     = "Building Bharat's Digital Armor for AI"
         self.baseline    = "Applicable AI and Digital Laws in Bharat"
         self.stack       = ["Python", "FastAPI", "React", "PyTorch", "Docker"]
-        self.status      = "Overhauling KavachX branding with Indian aesthetics"
+        self.status      = "Overhauling profile with elite branding & roadmap"
 
     def current_tasks(self):
         return [
-            "🛡️ Finalizing 'Cyber-Vedic' Kavach Branding",
+            "🛡️ Finalizing premium branding and architecture roadmap",
             "🧬 Training domain-specific safety classifiers",
             "🛡️ Hardening real-time enforcement middleware",
             "📊 Designing executive compliance observability",
